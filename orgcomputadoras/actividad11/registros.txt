@@ -1,0 +1,12 @@
+
+|   STATUS|  MATRICULA|   NOMBRE      |   APPAT       |   APMAT       |    EDAD|   SEXO  |
+|        1|     300041|   ERICK       |   FELIX       |   OBRADOR     |      80|     1|
+|        1|     311478|   ISIDRO      |   SHEINBAUM   |   BAEZ        |      37|     1|
+|        1|     323281|   NELLY       |   FELIX       |   GOZA        |      70|     2|
+|        1|     304827|   WILLIAM     |   CARRERA     |   GOZA        |      89|     1|
+|        1|     300292|   MARIO       |   BAEZ        |   GOZA        |      69|     1|
+|        1|     305447|   ERICK       |   CARRERA     |   GOZA        |      86|     1|
+|        1|     325667|   KEVIN       |   NEVAREZ     |   ZAZUETA     |      49|     1|
+|        1|     331322|   BRIAN       |   MARCELA     |   MARCELA     |      21|     1|
+|        1|     328253|   WILLIAM     |   SHEINBAUM   |   FELIX       |      57|     1|
+|        1|     320037|   CLAUDIA     |   NEVAREZ     |   MARCELA     |      58|     2|
